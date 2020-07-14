@@ -1,3 +1,4 @@
+
 MIT License
 
 Copyright (c) 2020 Kyle Vonderwerth
@@ -19,3 +20,16 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+Further, this project utilizes work from the Fawkes project which itself is under MIT License.
+
+- https://github.com/Shawn-Shan/fawkes
+
+@inproceedings{shan2020fawkes,
+  title={Fawkes: Protecting Personal Privacy against Unauthorized Deep Learning Models},
+  author={Shan, Shawn and Wenger, Emily and Zhang, Jiayun and Li, Huiying and Zheng, Haitao and Zhao, Ben Y},
+  booktitle="Proc. of USENIX Security",
+  year={2020}
+}
+
+Thank You!
